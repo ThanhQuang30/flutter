@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "760559042626",
+    "project_id": "split-money-57406",
+    "storage_bucket": "split-money-57406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760559042626:android:a925755ea578968e046ddb",
+        "android_client_info": {
+          "package_name": "com.example.split"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760559042626-3amjki68khht1bthvkjqai33g81fi1m1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.split",
+            "certificate_hash": "60b28fdc9c51c67313daa79831737a4a9ef3c048"
+          }
+        },
+        {
+          "client_id": "760559042626-ppsbsbsndv0s0ao57d3m9pj2ij5nmrb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcFI9frJ93Mq48u1pO0UESd-2u2BglCZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760559042626-ppsbsbsndv0s0ao57d3m9pj2ij5nmrb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
